@@ -24,7 +24,7 @@ In LDPlayer settings, enable the following options:
 
 Install the Kitsune Magisk APK file inside the emulator, just like you would install any other APK.
 
-![Placeholder: Installing the Kitsune Magisk APK](./screenshots/02-install-apk.png)
+![Screenshot001](./screenshots/Screenshot2026-07-12151755.png)|![Screenshot002](./screenshots/Screenshot2026-07-12151809.png)|![Screenshot003](./screenshots/Screenshot2026-07-12151817.png)
 
 ### 3. Open a Root Shell
 
