@@ -33,9 +33,6 @@ Open a terminal (via ADB or a terminal emulator app inside LDPlayer) and enter r
 ```bash
 su
 ```
-
-![Placeholder: Terminal showing su command granting root access](./screenshots/03-root-shell.png)
-
 ### 4. Remount the Filesystem as Writable (if needed)
 
 If the root filesystem is mounted as read-only, remount it as read-write:
@@ -43,8 +40,6 @@ If the root filesystem is mounted as read-only, remount it as read-write:
 ```bash
 mount -o remount,rw /
 ```
-
-![Placeholder: Terminal output after remounting filesystem as rw](./screenshots/04-remount-rw.png)
 
 ### 5. Run the Bootstrap Script
 
@@ -60,13 +55,13 @@ chmod 755 /sbin
     /sbin
 ```
 
-![Placeholder: Terminal output of the bootstrap script running successfully](./screenshots/05-bootstrap-script.png)
+![Placeholder: Terminal output of the bootstrap script running successfully](./screenshots/Screenshot2026-07-12152142.png)
 
 ### 6. Reboot the Emulator
 
 Restart LDPlayer to complete the installation.
 
-![Placeholder: LDPlayer reboot confirmation](./screenshots/06-reboot.png)
+![Placeholder: LDPlayer reboot confirmation](./screenshots/Screenshot2026-07-12152243.png)
 
 ## Done
 
