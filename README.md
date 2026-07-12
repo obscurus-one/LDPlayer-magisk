@@ -15,7 +15,7 @@ In LDPlayer settings, enable the following options:
 - **Root**
 - **Writable System**
 
-![Placeholder: LDPlayer settings with Root and Writable System enabled](./screenshots/01-enable-settings.png)
+![Placeholder: LDPlayer settings with Root and Writable System enabled](./screenshots/01-enable-settings.png)|(./screenshots/02-enable-settings.png)
 
 ### 2. Install the Kitsune Magisk APK
 
